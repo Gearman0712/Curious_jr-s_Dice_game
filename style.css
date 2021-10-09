@@ -44,7 +44,7 @@ body {
 }
 #item3{
     
-    background-color: red;
+     background-color: grey; 
     grid-column: 1/2;
     grid-row:  4/6;
     
@@ -54,7 +54,7 @@ body {
      font-family: "Lucida Console", "Courier New", monospace;
 }
 .item4{
-    background-color: green;
+  background-color: grey; 
     grid-column: 2/3;
     grid-row:  4/6;
     
@@ -65,7 +65,7 @@ body {
      font-family: "Lucida Console", "Courier New", monospace;
 }
 #item5{
-    background-color: red;
+  background-color: grey; 
     grid-column: 3/4;
     grid-row:  4/6;
    
@@ -108,19 +108,19 @@ body {
 #item6a , #item6d {
   text-align: center;
   line-height: 4rem;
-  border:  3px solid green;
+  border:  3px solid   grey; 
 }
 
 #item6b, #item6e
 {
   text-align: center;
   line-height: 4rem;
- border:  3px solid green;
+ border:  3px solid   grey; ;
 }
 #item6c , #item6f {
   text-align: center;
   line-height: 4rem;
-  border:  3px solid green;
+  border:  3px solid   grey; 
 }
 
 
@@ -134,7 +134,7 @@ body {
 
 
 #item7{
-    background-color: rgb(38, 170, 141);
+  background-color: grey; 
     grid-column: 1/-1;
     grid-row: 8/9;
     padding: 1.5rem 0.5rem;
@@ -144,7 +144,7 @@ body {
      text-align: center;
 }
 #item8{
-    background-color: goldenrod;
+  background-color: darkslategrey; 
     grid-column: 1/-1;
     grid-row: 9/10;
     padding: 1.5rem 0.5rem;
