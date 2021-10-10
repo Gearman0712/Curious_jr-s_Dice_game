@@ -22,8 +22,8 @@ The production version is hosted at [https://gearman0712.github.io/Curious_jr-s_
   
 
 ## ScreenShots 
-![](images/cap1.JPG)
-![](images/cap2.JPG)
-![](images/cap4.JPG)
-![](images/cap3.JPG)
+![](screenshots/cap1.JPG)
+![](screenshots/cap2.JPG)
+![](screenshots/cap4.JPG)
+![](screenshots/cap3.JPG)
 
