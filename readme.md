@@ -8,7 +8,7 @@ The production version is hosted at [https://gearman0712.github.io/Curious_jr-s_
 ## Use the development Version
 
 - Clone the project!
-- Open the index.html file on any browser.
+- Open the 'index.html' file on any browser.
 
 ## Algorithm/Features
 
