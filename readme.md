@@ -14,7 +14,7 @@ The production version is hosted at [https://gearman0712.github.io/Curious_jr-s_
 
 - There are 10 rounds.
 - Each round you will be given 3 seconds to guess the number.
-- After that the  dice will roll.
+- After that, the  dice will roll.
 - If value guessed matches  with the value on the face of the dice.
 - If yes, then the score will increase by 10.
 - If no, then the score will remain the same.
